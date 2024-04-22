@@ -1,0 +1,36 @@
+.zzz{
+    width: 250px;
+    height: 200px;
+    /* border: 2px solid white; */
+    border-radius: 20px 30px;
+    color: red; padding: 10px;
+} 
+
+/* .res{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    
+} */
+.aa {
+    border: 2px solid white;
+    border-radius:10px;
+    width: 400px;
+    height: 300px;
+    font-weight: bold;
+    padding-top: 10px;
+    
+    font-family: 'Times New Roman', Times, serif;
+    background-color:white ;
+    box-shadow: 0px 0px 5px red inset;
+    text-align: center;
+    background-color: rgba(218, 206, 208, 0.432);
+
+
+}
+.har{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: space-evenly;
+}
